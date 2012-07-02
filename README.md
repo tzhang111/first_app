@@ -1,4 +1,3 @@
-first_app
-=========
+First App ->
+First Checkout!
 
-This is first app
